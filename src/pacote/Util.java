@@ -1,4 +1,4 @@
-package java.pacote;
+package pacote;
 
 import java.time.format.DateTimeFormatter;
 

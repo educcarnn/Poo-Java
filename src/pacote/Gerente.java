@@ -1,6 +1,4 @@
-package java.pacote;
-
-import java.time.LocalDate;
+package pacote;
 
 public class Gerente extends Funcionario {
 

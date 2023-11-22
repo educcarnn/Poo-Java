@@ -1,5 +1,4 @@
-package java.pacote;
-import java.time.LocalDate;
+package pacote;
 
 public class Secretario extends Funcionario {
 
