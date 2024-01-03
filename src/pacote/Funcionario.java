@@ -3,7 +3,7 @@ package pacote;
 import java.time.LocalDate;
 import java.time.YearMonth;
 import java.time.format.DateTimeFormatter;
-
+//
 public abstract class Funcionario {
     protected String nome;
     protected String cargo;
